@@ -1,0 +1,1 @@
+/* Contiene utulidades para manejar y trasnformar las rutas de los directorios y archivos a formato de cadena. El sistema de archivos no es consultado para comprobar si los cambios son validos */
